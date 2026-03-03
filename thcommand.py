@@ -13,7 +13,7 @@ import struct, re, shutil, platform, ctypes, threading, urllib.request
 import random, string, hmac, uuid, zipfile, sqlite3, csv, textwrap, ssl
 from pathlib import Path
 
-VERSION = "2.0.0"
+VERSION = "1.0.0"
 AUTHOR = "tbabi"
 TEAM = "TurkHackTeam"
 HISTORY = []
@@ -1141,3 +1141,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
